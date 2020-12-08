@@ -1,4 +1,4 @@
-FROM nikolaik/python-nodejs:python3.8-nodejs12
+FROM postgres:12.5
 
 
 LABEL version="1.0.0"
